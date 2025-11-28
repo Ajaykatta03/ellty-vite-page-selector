@@ -8,9 +8,6 @@ A modern React-based page selector card component built with Vite. This UI allow
 - Built with React and Vite for fast development
 - Styled with CSS for a modern look
 
-## Demo
-![Demo Screenshot](demo.png)
-
 ## Getting Started
 
 ### Prerequisites
@@ -57,3 +54,6 @@ MIT
 
 ## Author
 Ajay Katta
+
+## Live Demo
+[View the live app](https://ellty-vite-page-selector.vercel.app/)
